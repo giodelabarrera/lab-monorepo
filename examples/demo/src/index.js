@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import helloWorld from "workspace-b";
+import helloWorld from "@lab-monorepo/hello-world";
 
 const helloWorldText = helloWorld()
 

@@ -1,7 +1,7 @@
 {
-  "name": "@lerna-bootstrap/demo",
+  "name": "@lab-monorepo/demo",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "demo",
   "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",
   "homepage": "",
   "license": "ISC",
@@ -15,7 +15,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "^3.2.0",
-    "workspace-b": "1.0.0"
+    "@lab-monorepo/hello-world": "1.0.0"
   },
   "browserslist": [
     ">0.2%",

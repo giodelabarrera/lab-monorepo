@@ -1,15 +1,11 @@
 {
-  "name": "@lerna-bootstrap/workspace-a",
+  "name": "@lab-monorepo/hello",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "hello function",
   "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/workspace-a.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
+  "main": "lib/index.js",
   "files": [
     "lib"
   ],
