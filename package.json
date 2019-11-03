@@ -1,0 +1,17 @@
+{
+  "name": "lerna-bootstrap",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "examples/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "workspace-b",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/workspace-b.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "cross-env": "5.0.5",
+    "workspace-a": "1.0.0"
+  }
+}
