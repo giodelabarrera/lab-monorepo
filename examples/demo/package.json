@@ -1,5 +1,6 @@
 {
   "name": "@lab-monorepo/demo",
+  "private": true,
   "version": "1.0.1",
   "description": "demo",
   "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",
