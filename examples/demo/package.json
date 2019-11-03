@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "@lerna-bootstrap/demo",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",

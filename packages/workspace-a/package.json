@@ -1,5 +1,5 @@
 {
-  "name": "workspace-a",
+  "name": "@lerna-bootstrap/workspace-a",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Giorgio de la Barrera <giodelabarrera@gmail.com>",
